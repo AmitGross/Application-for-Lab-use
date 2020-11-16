@@ -8,3 +8,5 @@ the app would calculate ratios for your protocol and would give an output of the
 the app would document your work in the corrisponding virtual notebook and current date.
 
 the raw code has a bug in the search engine , nevertheless the search engine in the created exe file works well .
+
+my projects options is not yet availble.
