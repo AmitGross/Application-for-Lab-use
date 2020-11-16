@@ -7,4 +7,4 @@ the app contains different calculators to calculate basic lab work calculations 
 the app would calculate ratios for your protocol and would give an output of the organized protocol including calculated amounts of substances to add, according the an input data from the user.
 the app would document your work in the corrisponding virtual notebook and current date.
 
-the raw code has a bug in the search engine , nevertheless the search engine in the created exe file works .
+the raw code has a bug in the search engine , nevertheless the search engine in the created exe file works well .
