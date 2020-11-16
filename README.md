@@ -5,5 +5,6 @@ This app allows users to documante thier lab protocols in the field of immunohis
 The app would allow the user to search for protocols that uses similar componenets as his, essentially to replicate a successful protocol.
 the app contains different calculators to calculate basic lab work calculations such as concetrations of sulution or how much of a solid to add to a dilute..
 the app would calculate ratios for your protocol and would give an output of the organized protocol invluding calculated amounts of substances to add, accoring the an input data from the user.
+the app would document your work in the corrisponding virtual notebook and current date.
 
 the raw code has a bug in the search engine (latest version lost), nevertheless the search engine in the created exe file works .
